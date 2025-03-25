@@ -91,7 +91,7 @@ a{
 }
 
 .profile-img .in-card {
-    background-image: url("user-circles-set.png");
+    background-image: url("assets/user-circles-set.png");
     background-size: cover;
     background-position: center;
     height: 190px;
@@ -206,7 +206,7 @@ a{
     .profile-img .in-card {
         height: 100px;
         width: 100px;
-        margin-top: 300px;
+        margin-top: 200px;
     }
 
     .profile-info .name {
